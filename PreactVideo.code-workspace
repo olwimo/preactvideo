@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "preactvideo",
+            "name": "PreactVideo"
+        }
+    ],
+    "settings": {
+        "files.eol": "\n",
+        "input-assist.languages": [
+            "plaintext"
+        ],
+        "task.allowAutomaticTasks": "on"
+    }
+}
